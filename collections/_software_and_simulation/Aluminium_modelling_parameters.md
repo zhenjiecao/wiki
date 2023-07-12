@@ -1,6 +1,6 @@
 ---
 title: Al Modelling Parameters
-author: Guy Bowker, Laura González Duque
+author: Guy Bowker, Laura González Duque, Zhenjie Cao
 tags:
   - Aluminium
   - DAMASK
